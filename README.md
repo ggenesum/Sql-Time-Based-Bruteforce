@@ -5,3 +5,4 @@ If a website is vulnerable to SQL injection, but does not display any error mess
 
 You will need to craft SQL queries for the target website.
 This script can be easily adapted to bruteforce using errors instead of delays.
+With appropriate queries, you can also bruteforce table or column names and probably many other things.
